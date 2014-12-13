@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0, [COLOR yellow]TV Nguyễn Văn Hận[/COLOR]  
+rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0,001 : Bong Da TV (VTVcab16)
+http://vtvplay.vn/api/channel?streamid=5
+#EXTINF:0,002 : THVL1 Vĩnh Long 1
+http://hlscache.fptplay.net.vn/livez/vinhlong1_2500.stream/playlist.m3u8
+#EXTINF:0,003 : Bong Da TV HD
+udp://@225.1.1.177:30120
+#EXTINF:0,004 : The Thao TV HD
+udp://@225.1.1.178:30120a
+#EXTINF:0,005 : VTV 3 HD
+udp://@225.1.1.246:30120
+#EXTINF:0,006 : VTV 3 HD
+udp://@225.1.1.181:30120
+#EXTINF:0,007 : VTV 3
+udp://@225.1.1.37:30120
+#EXTINF:0,008 : VTV 6
+udp://@225.1.1.184:30120
+#EXTINF:0,009 : VTV 6 HD
+udp://@225.1.1.210:30120
+#EXTINF:0,010 : HTV The Thao
+udp://@225.1.1.116:30120
+#EXTINF:0,011 : HTV The Thao
+udp://@225.1.1.116:30120
+#EXTINF:0,012 : K+1 HD
+udp://@225.1.1.221:30120
+#EXTINF:0,013 : K+NS HD
+udp://@225.1.1.220:30120
+#EXTINF:0,014 : K+PM HD
+udp://@225.1.1.224:30120
+#EXTINF:0, --N+ Nhaccuatui
+rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
+#EXTINF:0, --VTV4
+http://live.accessasia.tv:1935/vnptg_channels/mp4:vtv4.480p/playlist.m3u8
+#EXTINF:0, --Phim Viet
+http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
+#EXTINF:0, --Thuan Viet
+http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
+#EXTINF:0, --Du Lich
+http://live.accessasia.tv:1935/vnptg_channels/mp4:dulichcuocsong.480p/playlist.m3u8
+#EXTINF:0, --Kenh17
+http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
+#EXTINF:0, --O2 TV
+http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
+#EXTINF:0, --SCTV-Hài
+http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
+#EXTINF:0, --TOM&JERRY 
+rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
